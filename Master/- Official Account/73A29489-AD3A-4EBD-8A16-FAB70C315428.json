@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "73A29489-AD3A-4EBD-8A16-FAB70C315428",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C8150AA-7E97-4943-AC5A-8E4A66E11A9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "151AF091-89B3-40C0-8749-18D484C1347C",
+    "height": 505.6227758007117,
+    "width": 1280,
+    "x": -186,
+    "y": 3530
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/677b16a0ff5dc16fbd86649c1e3221954cbcd275",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "客户Logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F426411-A934-45CB-B3A9-094968D28536",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

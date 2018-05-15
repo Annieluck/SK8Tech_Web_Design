@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "570C1F7A-CA16-471B-AEE4-EB6A1AA69594",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6168F46E-5726-4966-9426-48C690175049",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D679BA44-0BE4-426E-98AE-2CF9D87DD4DC",
+    "height": 1172,
+    "width": 5016,
+    "x": -1938,
+    "y": 4059
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "48D23C69-ED0B-4C74-A395-4684B3FC5AB9"
+    },
+    {
+      "class": "bitmap",
+      "id": "67A54451-CBB2-45D4-83D2-ABC2561E3632"
+    },
+    {
+      "class": "bitmap",
+      "id": "B8033B69-216F-43C5-A335-F71843E1F798"
+    }
+  ],
+  "name": "退款说明",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A27FB2D3-A4C9-4F8C-85E6-28E135958C25",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

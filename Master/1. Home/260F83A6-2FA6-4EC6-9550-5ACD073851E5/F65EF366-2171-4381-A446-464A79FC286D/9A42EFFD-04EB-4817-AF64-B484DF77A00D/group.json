@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "9A42EFFD-04EB-4817-AF64-B484DF77A00D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48.99999999999999,
+    "width": 117,
+    "x": 1068,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FEF0430-5852-41D8-AFF0-AB29113D2A9A"
+    },
+    {
+      "class": "text",
+      "id": "C0B79CDB-098B-4482-B5C4-FC874291C7E6"
+    }
+  ],
+  "name": "BT_QOUTE",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D616C689-8C9E-41FA-A25E-DF4E9327FCE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A26247E5-0898-4E82-8D49-234817128B30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CA5E11FD-E9DC-4644-BB37-E62BA824F6DC",
+    "height": 998,
+    "width": 1542,
+    "x": 3700,
+    "y": 76
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/74196033471486c14bffbc80fbfd08c2dbe012e1",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "服务流程",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E1FA477-F203-4D9E-AEA2-CF2DC1A6F194",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

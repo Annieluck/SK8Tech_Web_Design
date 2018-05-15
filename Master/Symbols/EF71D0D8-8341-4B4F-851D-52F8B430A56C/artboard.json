@@ -1,0 +1,158 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "274D9FF0-C172-43F9-A64B-7287C07E3FB0",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "EF71D0D8-8341-4B4F-851D-52F8B430A56C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EF8433E-4EB7-42C5-8EE2-F857CF441195",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7279A5F7-B6EC-453C-83A2-66F042F20C63",
+    "height": 1024,
+    "width": 768,
+    "x": 3666,
+    "y": 303
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5C1C2E6E-7904-43AA-89EA-F0374C5EFBC8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "22C017C5-81C9-4186-8980-C19F5C655383"
+    },
+    {
+      "class": "text",
+      "id": "BE39C995-185E-4D64-A925-EF5F232D1A9C"
+    },
+    {
+      "class": "text",
+      "id": "B4EA59BC-53D1-4AEF-89BC-4E3E14317B9B"
+    },
+    {
+      "class": "text",
+      "id": "B3EB8497-35ED-495A-8DC9-BD9FFB8D6F31"
+    },
+    {
+      "class": "text",
+      "id": "2FC01A24-593F-4249-97B2-358FD3E25513"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E8664F8-913A-49F6-8601-7A3B11B77509"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "192C03EF-2DAD-4F8C-954D-DEE53986FA7A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "03CC2BBC-A3ED-4196-A14E-E9CA3D63C7E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EFC4DB2-A1C4-49CD-A79E-0F886BA7167F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4637D838-621E-40ED-A9B3-A0D98F1C4A23"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7752C31-5053-452E-8761-08C62EEA62A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F9C41D0A-6C46-464A-BF57-666BABE7EE88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAD90514-CBF4-480B-B7F6-69957C666A17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11717A56-C0AF-400C-9637-FE14353FA5A8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8CDDE272-E111-40A1-97E3-20C7BDCA687B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "481E7A2A-3EE8-4D2F-A9B4-C1E5AC7A7BB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88D0140E-874B-48AF-8AA6-C9CFF9B47142"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E95F1929-36CB-413E-8507-CFBF7BB69511"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AD4B9C96-BC63-495D-BA1F-73B81E1AF458"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B5F48D00-39B6-4A8D-9864-14E210661B04"
+    }
+  ],
+  "name": "Color Palettes Backup",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D701F94-56DB-4EA2-B0EB-BCD51CEBEE37",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6820DF3E-4506-402C-8F67-324EE8EED0B1",
+    "guides": [
+    ]
+  }
+}

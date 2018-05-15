@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "28F5D812-A240-4953-9EF7-370884B7DA4E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F40A47E4-3A8B-4D43-B90E-1551F0037D38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9B583F0A-E863-489B-A15B-8CFE90F9FACB",
+    "height": 2913,
+    "width": 1920,
+    "x": 15005,
+    "y": -5591
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/d3db19e501caf6403d8972ec6b6f798392b46775",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "screencapture-geekdesign-au-1517234375790",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A8C4ED47-8CEF-4389-A757-38AF93D039DD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

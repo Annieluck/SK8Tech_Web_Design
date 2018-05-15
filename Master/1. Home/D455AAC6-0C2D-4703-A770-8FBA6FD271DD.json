@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D455AAC6-0C2D-4703-A770-8FBA6FD271DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E548812F-FEB4-4B14-A9EA-689EA739187D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "C9E3FA22-FD08-4244-AAAA-F8E2E1A14BBD",
+    "height": 3926,
+    "width": 1920,
+    "x": 10560,
+    "y": -5564
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5cd5029bc14c455f982bc5bcdd5d9c1395f206c9",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "screencapture-goldwebs-au-1517234319893",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DDA7E5D4-8351-422D-B1F5-CDC76928A937",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "9E215070-175A-422C-82CA-C1151A5D89CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 247,
+    "width": 272,
+    "x": 974,
+    "y": 53
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D3E9EE62-4F6B-4319-A364-F6BF98EB664C"
+    },
+    {
+      "class": "group",
+      "id": "802BC7F3-1ADB-4481-8083-52FF1D7DD67B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "045E09B7-E6B7-4147-8F26-22F2E6F1C95F"
+    },
+    {
+      "class": "text",
+      "id": "DDB47669-D2D7-472F-BE26-D1A4087A6F10"
+    }
+  ],
+  "name": "widget_latest_posts",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

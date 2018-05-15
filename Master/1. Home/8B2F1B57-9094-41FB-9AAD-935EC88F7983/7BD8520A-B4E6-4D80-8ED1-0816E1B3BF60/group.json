@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "7BD8520A-B4E6-4D80-8ED1-0816E1B3BF60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 655,
+    "width": 1024,
+    "x": 960,
+    "y": 45
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1BA8FEFB-C626-4B7A-9649-8F76C38DE965"
+    },
+    {
+      "class": "group",
+      "id": "42575DA5-24BA-4B3D-8D87-B6F2D57DC6D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5A19123B-E990-43FE-9823-83F9271229F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "000362F9-99AE-478D-8187-3FC1EEFC790D"
+    },
+    {
+      "class": "bitmap",
+      "id": "1E6A0D24-2223-41E5-84E0-10F15C0A5CBE"
+    },
+    {
+      "class": "text",
+      "id": "9FAACB11-8DFA-4995-8F65-C7B50122A95F"
+    }
+  ],
+  "name": "ABOUT US",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

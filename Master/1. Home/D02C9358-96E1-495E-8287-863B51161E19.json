@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D02C9358-96E1-495E-8287-863B51161E19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "096A029C-2EBC-426E-A026-88488FAE8F75",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "8429F2A0-D917-4BA1-ADE2-60743929E87C",
+    "height": 581,
+    "width": 1905,
+    "x": 529,
+    "y": -5474
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/4945393384e5fb4438254c3b2cc6f4995e32b571",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Rev Slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3C9648C-752F-4B96-BD90-A4030DB504C5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

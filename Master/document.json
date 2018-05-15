@@ -1,0 +1,274 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4392156862745098,
+        "green": 0.4392156862745098,
+        "red": 0.4392156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.384313725490196,
+        "green": 0.384313725490196,
+        "red": 0.384313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5019607843137255,
+        "green": 0.5019607843137255,
+        "red": 0.5019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8784313725490196,
+        "green": 0.8784313725490196,
+        "red": 0.8784313725490196
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3803921568627451,
+        "green": 0.1098039215686274,
+        "red": 0.09019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.996078431372549,
+        "green": 0.996078431372549,
+        "red": 0.996078431372549
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1058823529411765,
+        "green": 0.007843137254901959,
+        "red": 0.8156862745098039
+      },
+      {
+        "_class": "color",
+        "alpha": 0,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1019607843137255,
+        "green": 0.1019607843137255,
+        "red": 0.1019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9607843137254902,
+        "green": 0.9607843137254902,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9019607843137255,
+        "green": 0.9019607843137255,
+        "red": 0.9019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3333333333333333,
+        "green": 0.2156862745098039,
+        "red": 0.9764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6078431372549019,
+        "green": 0.6078431372549019,
+        "red": 0.6078431372549019
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9176470588235294,
+        "green": 0.7294117647058823,
+        "red": 0.3254901960784314
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9686274509803922,
+        "green": 0.9647058823529412,
+        "red": 0.9607843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9764705882352941,
+        "green": 0.8901960784313725,
+        "red": 0.8823529411764706
+      },
+      {
+        "_class": "color",
+        "alpha": 0.56,
+        "blue": 0.1019607843137255,
+        "green": 0.1019607843137255,
+        "red": 0.1019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6274509803921569,
+        "green": 0.2627450980392157,
+        "red": 0.2352941176470588
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8784313725490196,
+        "green": 0.6666666666666666,
+        "red": 0.1333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0,
+        "green": 0.8,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 0.15,
+        "blue": 0.7450980392156863,
+        "green": 0.4196078431372549,
+        "red": 0.2470588235294118
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7529411764705882,
+        "green": 0.7019607843137254,
+        "red": 0.7019607843137254
+      },
+      {
+        "_class": "color",
+        "alpha": 0.15,
+        "blue": 0.3803921568627451,
+        "green": 0.1098039215686274,
+        "red": 0.09019607843137255
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9215686274509803,
+        "green": 0.9215686274509803,
+        "red": 0.9215686274509803
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.792156862745098,
+        "green": 0.6627450980392157,
+        "red": 0.6509803921568628
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8549019607843137,
+        "green": 0.8549019607843137,
+        "red": 0.8549019607843137
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6274509803921569,
+        "green": 0.4235294117647059,
+        "red": 0.4117647058823529
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.1529411764705882,
+        "green": 0.1058823529411765,
+        "red": 0.02745098039215686
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7411764705882353,
+        "green": 0.7411764705882353,
+        "red": 0.7411764705882353
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 1,
+  "do_objectID": "325B11DE-E93F-4307-A97D-2D1084D583BE",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49.2",
+    "build": 51160,
+    "version": 101
+  },
+  "pages": [
+    "0. Sitemap",
+    "1. Home",
+    "2.Services",
+    "2.2 Web Design",
+    "2.4 WeChat",
+    "- Official Account",
+    "- Mini Program",
+    "2.5 Digital Marketing",
+    "- SEO",
+    "- SEM (PPC)",
+    "- SMM (Social)",
+    "- ASO",
+    "2.6 Enterprise",
+    "- Email Hosting",
+    "Team",
+    "9. Landing",
+    "10. Ads",
+    "Symbols",
+    "Styles"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

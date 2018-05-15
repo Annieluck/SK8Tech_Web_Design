@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F7C43436-6675-4C67-9BF1-73FEE6A8DD7F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E70D64A-0727-46AC-A7B5-E5DEDBF1672E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6D2C928F-411E-4A33-A876-840764CDA599",
+    "height": 791.079478054567,
+    "width": 1280,
+    "x": 0,
+    "y": 89
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/11939e5ee61d1ada83482f43268b32453d39ea8a",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "案例展示",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B36AC25-04AE-445D-801B-95032E18BD1B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

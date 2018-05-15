@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "FE5D1065-EB23-4EF3-A727-D7BD20CEE087",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F135E626-5E75-45AB-8D43-4C1542FE05CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DD18093-0FD7-4BCB-8E95-0784398D0ED3",
+    "height": 881,
+    "width": 3138,
+    "x": -183,
+    "y": -2263
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "1FDBF0C4-D280-47CA-A17D-659218F1C36F"
+    },
+    {
+      "class": "bitmap",
+      "id": "F7C43436-6675-4C67-9BF1-73FEE6A8DD7F"
+    }
+  ],
+  "name": "案例",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B7BD7D09-D8BA-430A-9ABA-0110D153CDAB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

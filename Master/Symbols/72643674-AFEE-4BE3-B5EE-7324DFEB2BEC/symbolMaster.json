@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D764B538-FE02-4E69-A9FF-3B65716D6AF1",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1278,
+  "do_objectID": "72643674-AFEE-4BE3-B5EE-7324DFEB2BEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D6B8073-84DF-4FAF-A03F-1D90774FEEB9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEBB25B8-6684-4C0D-AB86-52F9DD1592D9",
+    "height": 32,
+    "width": 148,
+    "x": 2990,
+    "y": 117
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2043558F-0CF4-47A7-A6F9-3FEC590B451D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "10B8DB08-4A6D-4233-AB63-966F045EA070"
+    }
+  ],
+  "name": "Text/Header/h5/Falling Sky/Bold - Primary",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D6727B2-B867-48CA-A58B-CF8DA1BEB694",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2578D9B9-0EF3-45B7-8FD7-E14C7F046CE9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4DA2BC9B-1212-4D32-BEE1-8EC36BC1D3FA",
+    "guides": [
+    ]
+  }
+}

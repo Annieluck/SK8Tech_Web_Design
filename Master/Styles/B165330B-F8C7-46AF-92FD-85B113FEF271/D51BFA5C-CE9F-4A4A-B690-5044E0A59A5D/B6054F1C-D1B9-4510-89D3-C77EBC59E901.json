@@ -1,0 +1,58 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGXF1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGgcIDxAcHR4fKywtLi8wMTc9QUVNTk9QUVRYVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAGYADV0V4YW1wbGXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAD4ARgA5fECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZdMREgogJRukISIjJIAIgAmACoALpCYnJyeADIANgA2ADYAOU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/v//egAAAAIz/wAAAAAAAA0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNDZYTlNPYmplY3TTOAo5Ojs8XxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvblpOU1RhYlN0b3BzEAGAEIAA0jIzPj9fEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM+QDZfEBBOU1BhcmFncmFwaFN0eWxl0gpCQ0RfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AYgBLTERIKRklMokdIgBOAFKJKS4AVgBaAF18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BIAAAAAAAAWUhlbHZldGljYdIyM1JTXxATTlNNdXRhYmxlRGljdGlvbmFyeaNSNDbSMjNVVl8QEE5TRm9udERlc2NyaXB0b3KiVzZfEBBOU0ZvbnREZXNjcmlwdG9y0jIzWVpfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiWzZfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRXl9Ucm9vdIABAAgAEQAaACMALQAyADcAVABaAGEAagBxAH4AgACCAIQAjACTAJsApgCqAKwArgCwALQAtgC4ALoAvADpAPwBHgElASoBLAEuATABMgE3ATkBOwE9AT8BQQFFAUsBUAFWAV8BaAFtAXgBgQGOAZEBmgGhAcMBzgHQAdIB1AHZAfMB9wIKAg8CLAIuAjACNwI6AjwCPgJBAkMCRQJHAl0CcwJ8AoYCiwKhAqUCqgK9AsAC0wLYAu0C8AMFAxcDGgMfAAAAAAAAAgEAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAyE="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "B6054F1C-D1B9-4510-89D3-C77EBC59E901",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 800,
+    "x": 18,
+    "y": 40
+  },
+  "glyphBounds": "{{4, 12}, {181, 46}}",
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Example",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "200714D3-9C56-49BF-ADCF-DC52A297379E"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.library/sync": {
+      "style": {
+        "colorAlpha": 1,
+        "colorHex": "#FFFFFF",
+        "fontPostscriptName": "Helvetica",
+        "fontSize": 48,
+        "lineHeight": 58,
+        "text": "Employee Message. Very Powerful!"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C4F0925E-FB65-43A5-B738-544D19BC874F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36086E72-CB53-44E5-B922-C4B9D31C245C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "72A9A124-909C-479F-81B7-07003B65D88D",
+    "height": 233,
+    "width": 1904,
+    "x": 529.9999999999999,
+    "y": -5707
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/23c0bace1f75b9660c82ccf377b97ec62d75dcc6",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71665490-F982-43C2-BA5B-824A255AA84E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

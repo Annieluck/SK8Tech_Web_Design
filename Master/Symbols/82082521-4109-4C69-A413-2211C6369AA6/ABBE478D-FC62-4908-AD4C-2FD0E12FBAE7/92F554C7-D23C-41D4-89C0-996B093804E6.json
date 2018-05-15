@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "92F554C7-D23C-41D4-89C0-996B093804E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A7CB338-B7C1-47BD-993B-497F6BE72C02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "961176A0-5D0A-452E-9D90-3FDE5ED8B8E2",
+    "height": 44.9531737773153,
+    "width": 149.8439125910509,
+    "x": 982.2268470343392,
+    "y": 82.41415192507804
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/65ce1965e6da6163f5e2d777d203f2bcb45d94ec",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "dm_logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C2B7D88-2DC5-403A-90E9-E4BB6A6A0D06",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

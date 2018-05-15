@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "345B4648-3C7F-4525-AA59-E5482F32EA17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6573D7E2-E9A1-4B87-8D63-D82799BCA7DE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0B8E2E45-13F4-4ADC-ABBD-F2286937765F",
+    "height": 293,
+    "width": 1902,
+    "x": 526,
+    "y": -3023
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e5c292853e6d916db4153db06717af1c4cc8ef14",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logo Slider",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E960FD91-88F4-40B7-AC39-859249C48789",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "A755FA3C-2AF0-4242-9258-DB6DE7AFE4B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1D5D00D6-E14B-45FE-B9CF-78B01483B363",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DA90A0A-38AB-433F-A991-AFE3FE7FA44C",
+    "height": 2332,
+    "width": 1280,
+    "x": 1857,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "733B0EE7-6C6F-44E4-976B-FCDD0C91A086"
+    },
+    {
+      "class": "bitmap",
+      "id": "1E3950A8-01C6-4444-AD2E-F54E03A2BE06"
+    },
+    {
+      "class": "bitmap",
+      "id": "11737244-7491-487E-BA8F-5BD4AEBE23DB"
+    }
+  ],
+  "name": "套餐B",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0BF73BB8-4F04-4EA5-B847-CA66C91885C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
