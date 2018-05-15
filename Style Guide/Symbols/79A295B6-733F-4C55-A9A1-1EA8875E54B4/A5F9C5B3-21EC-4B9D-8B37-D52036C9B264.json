@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A5F9C5B3-21EC-4B9D-8B37-D52036C9B264",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15A840B9-06A3-4796-90A8-1BBB986213A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E6439AF-E6E6-4F74-8441-E73B6DD41F65",
+    "height": 19,
+    "width": 92,
+    "x": 202,
+    "y": 31
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "↳🖊Link",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A153099D-51BA-418F-A3E3-B90645C88F12",
+      "overrideName": "E67E1F7F-DAFC-4DED-A5F7-15B79BE84643_stringValue",
+      "value": "Apple Inc"
+    }
+  ],
+  "overrides": {
+    "E67E1F7F-DAFC-4DED-A5F7-15B79BE84643": "Apple Inc"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85B0710C-3651-41DF-9FFB-A5129EA807BE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8FBA2C11-2FB2-4F4C-AB77-87A716BE5254",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "6EC0485A-8D2B-4666-B1E6-C7D40A6564DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93F3931E-3E8C-4629-8F7A-3218D0758C98",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9D7508A9-EEA8-4B58-B51E-12F59450DDBD",
+    "height": 384,
+    "width": 512,
+    "x": 42,
+    "y": 85
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/e06a0821e931b7167d7147f53908629f034ef4e8",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AAA7F632-7B0B-429F-A4CB-C21170F234FA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

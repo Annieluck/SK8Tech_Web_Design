@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "D9E1C365-4686-4357-BE47-FFA62D6EFB2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB246267-6E6E-4C22-89DC-3FC3ACFB2614",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA3B1F8A-5887-4903-BEF8-F6B6F7E525D2",
+    "height": 87,
+    "width": 72,
+    "x": 435,
+    "y": 304
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B0DAB023-B681-40ED-8D5D-6ADF12507997"
+    },
+    {
+      "class": "text",
+      "id": "5525A2EC-2E0E-499B-83E2-EBC52B037D72"
+    },
+    {
+      "class": "text",
+      "id": "7D1A9504-45B9-4FF0-89F6-DECA10AFD3F1"
+    },
+    {
+      "class": "text",
+      "id": "6DA11767-0D58-4AC5-9D14-949EAB477559"
+    }
+  ],
+  "name": "Danger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B26D65A6-F0AE-4087-B06F-212D82BB959D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3803921568627451,
+          "green": 0.1098039215686274,
+          "red": 0.09019607843137256
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

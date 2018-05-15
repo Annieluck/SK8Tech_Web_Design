@@ -1,0 +1,48 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "C8C38282-B334-44A5-85A0-AEC607971F52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D41EBF4D-3E17-425E-A5C6-3CB340AE3C7B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "6195C5AD-9189-44A2-8268-E7A108A5D274",
+    "height": 56.5,
+    "width": 512,
+    "x": 42,
+    "y": 85
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fd46e42bcb083bb8d8e1cae7476fa56f8a276630",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "organism2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4141D05A-229E-4480-A0A1-66E347366943",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

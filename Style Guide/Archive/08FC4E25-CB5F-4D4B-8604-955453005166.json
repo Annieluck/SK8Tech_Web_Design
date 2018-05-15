@@ -1,0 +1,57 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "08FC4E25-CB5F-4D4B-8604-955453005166",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99FEC83A-6158-427D-8942-2DF01719CC4D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "474F67B5-1CB2-4ED5-91A4-F4DAC235EC60",
+    "height": 215,
+    "width": 695,
+    "x": 1033,
+    "y": 565
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/283fa2147748ac0279134b23842d7cbe4cbead0d",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Proposed Future Color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C3906B79-CFFC-4F68-AF22-80226E91C816",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4D591FBC-43D4-483D-8D03-2D71C4C1D9ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B907A9FC-D949-4DC7-A7C5-CD594DE67A5B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B441E77E-A65F-42F0-B802-EA1F7FED7B34",
+    "height": 29,
+    "width": 71,
+    "x": 42,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Text/Header/h4/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BAC9BCD-50F7-4B3B-B922-C855062244C4",
+      "overrideName": "8D5E95AC-2F5A-4289-9360-29E795F86880_stringValue",
+      "value": "pages"
+    }
+  ],
+  "overrides": {
+    "8D5E95AC-2F5A-4289-9360-29E795F86880": "pages"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A2455929-49D9-473B-811C-20AB737D0CF0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "81DBB0B8-5D9B-4651-92C2-65D804F46085",
+  "verticalSpacing": 0
+}

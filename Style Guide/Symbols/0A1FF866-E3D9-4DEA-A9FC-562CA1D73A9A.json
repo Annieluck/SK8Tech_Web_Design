@@ -1,0 +1,78 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3532FEB4-29BE-4AA1-8E74-4BABAB1E6D53",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "0A1FF866-E3D9-4DEA-A9FC-562CA1D73A9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DA0AD7C3-1B90-4FF8-8A05-B0D7569A0ED1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8DDEF274-1E3E-4926-A6CD-21DE1F6CEAA8",
+    "height": 1024,
+    "width": 1440,
+    "x": 4255,
+    "y": 806
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D385F611-C5AC-4A29-A3E0-734FB3A23070",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+  ],
+  "name": "Atoms",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "142A6083-E045-49EA-914F-8231D36161B6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D7966EFF-0C7A-4617-BA1A-573767836F0F",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "17ED6C43-2BAF-4E18-83E5-F08EB8197933",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "07CA87DD-5684-4BA5-A1A5-40744F44A46B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9484ABC4-AB6C-41B2-A531-522D74DFE35A",
+    "height": 19,
+    "width": 355,
+    "x": 121,
+    "y": 791
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Text/Body/Normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "912115AE-8262-4F1A-B94B-3B56A882EAD9",
+      "overrideName": "5A1ED919-4EDC-452C-8003-46BC22B990F0_stringValue",
+      "value": "http://bradfrost.com/blog/post/atomic-web-design/"
+    }
+  ],
+  "overrides": {
+    "5A1ED919-4EDC-452C-8003-46BC22B990F0": "http://bradfrost.com/blog/post/atomic-web-design/"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44B6775A-BAAB-400C-A9F7-1220AF146A70",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A99E8007-877A-4FDD-B2F9-DDE9C249F6E0",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "C0729AC3-BF4E-4C08-8CEE-EABBCF6283E1",
+  "name": "Palette/UI/Border/Danger",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1074010506272315,
+          "green": 0.01080086827278139,
+          "red": 0.8167051672935486
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "C0729AC3-BF4E-4C08-8CEE-EABBCF6283E1",
+    "startDecorationType": 0
+  }
+}

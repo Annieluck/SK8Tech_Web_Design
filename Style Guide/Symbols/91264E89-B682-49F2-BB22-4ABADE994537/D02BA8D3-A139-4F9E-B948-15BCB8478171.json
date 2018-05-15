@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D02BA8D3-A139-4F9E-B948-15BCB8478171",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 143,
+    "x": 88,
+    "y": 31
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "↳🖊Title",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C8A7DAE-8DC8-4D2E-A8D2-A85EF2876FE1",
+      "overrideName": "4AD289C3-F612-498F-9788-FFCA3CB42F4E_stringValue",
+      "value": "Jack Song, Director at "
+    }
+  ],
+  "overrides": {
+    "4AD289C3-F612-498F-9788-FFCA3CB42F4E": "Jack Song, Director at "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AAB42F0E-66ED-4561-A9CB-B9B45D76FBB3",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "361273A1-AD85-4D36-AD8C-033F154FCDB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 71,
+    "width": 543,
+    "x": 34,
+    "y": 61
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Testimonial",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D0E8527A-A253-4F80-81D2-A882D44A7041",
+      "overrideName": "D7B0EAB7-39E8-463E-8C2F-B1D8D567FDEE_stringValue",
+      "value": "SK8 is one of the most responsible companies I have ever seen. During the 3 months project collaborating with them, the Director Jack and other staff are professional and patient. I am not a technical person,  I just want to say they shine my eyes for what they did for me. Great company that I will always keep contact with!"
+    }
+  ],
+  "overrides": {
+    "D7B0EAB7-39E8-463E-8C2F-B1D8D567FDEE": "SK8 is one of the most responsible companies I have ever seen. During the 3 months project collaborating with them, the Director Jack and other staff are professional and patient. I am not a technical person,  I just want to say they shine my eyes for what they did for me. Great company that I will always keep contact with!"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B18DF0FF-7963-4CF6-9A52-C0CF444427DD",
+  "verticalSpacing": 0
+}

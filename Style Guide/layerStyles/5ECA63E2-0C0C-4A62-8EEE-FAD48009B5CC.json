@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "5ECA63E2-0C0C-4A62-8EEE-FAD48009B5CC",
+  "name": "Palette/UI/Border/Muted",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6062571406364441,
+          "green": 0.6066573262214661,
+          "red": 0.6061837673187256
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "5ECA63E2-0C0C-4A62-8EEE-FAD48009B5CC",
+    "startDecorationType": 0
+  }
+}

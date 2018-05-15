@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "17EC1422-F77C-46CC-8A87-8A061C8DB750",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 92,
+    "x": 231,
+    "y": 31
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "↳🖊Link",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A153099D-51BA-418F-A3E3-B90645C88F12",
+      "overrideName": "E67E1F7F-DAFC-4DED-A5F7-15B79BE84643_stringValue",
+      "value": "SK8Tech"
+    }
+  ],
+  "overrides": {
+    "E67E1F7F-DAFC-4DED-A5F7-15B79BE84643": "SK8Tech"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8FBA2C11-2FB2-4F4C-AB77-87A716BE5254",
+  "verticalSpacing": 0
+}

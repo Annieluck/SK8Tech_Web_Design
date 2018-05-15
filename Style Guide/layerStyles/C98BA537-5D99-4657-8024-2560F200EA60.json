@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "C98BA537-5D99-4657-8024-2560F200EA60",
+  "name": "Palette/UI/Border/Success",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.01759069226682188,
+          "green": 0.4603703618049622,
+          "red": 0.2544270753860474
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "C98BA537-5D99-4657-8024-2560F200EA60",
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_class": "sharedStyle",
+  "do_objectID": "203A9FB9-10DC-4373-8B55-D319D7580096",
+  "name": "Palette/UI/Border/Secondary",
+  "value": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5950806736946106,
+          "green": 0.4437899589538574,
+          "red": 0.4361511766910553
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "sharedObjectID": "203A9FB9-10DC-4373-8B55-D319D7580096",
+    "startDecorationType": 0
+  }
+}

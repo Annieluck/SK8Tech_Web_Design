@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6A0BF8E6-F11B-492A-96A1-338A22AD7EFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16A644AE-629A-442F-85EF-18DDBB561BB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "983045CD-B0BC-47EA-95A5-E0B09B94FEC8",
+    "height": 29,
+    "width": 106,
+    "x": 42,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Text/Header/h4/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BAC9BCD-50F7-4B3B-B922-C855062244C4",
+      "overrideName": "8D5E95AC-2F5A-4289-9360-29E795F86880_stringValue",
+      "value": "molecules"
+    }
+  ],
+  "overrides": {
+    "8D5E95AC-2F5A-4289-9360-29E795F86880": "molecules"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8EB1C18-5F15-4FC1-AC77-0D4A49FAE5D4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "81DBB0B8-5D9B-4651-92C2-65D804F46085",
+  "verticalSpacing": 0
+}

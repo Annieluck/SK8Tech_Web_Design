@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7EA60D97-790C-4082-8C0F-2DDF5481332D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD8D3A6A-987D-4EA6-9C0E-E0BD0E626614",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0FC2E287-EA39-41CE-ABD4-906B5A59182B",
+    "height": 29,
+    "width": 109,
+    "x": 42,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Text/Header/h4/Primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9BAC9BCD-50F7-4B3B-B922-C855062244C4",
+      "overrideName": "8D5E95AC-2F5A-4289-9360-29E795F86880_stringValue",
+      "value": "organisms"
+    }
+  ],
+  "overrides": {
+    "8D5E95AC-2F5A-4289-9360-29E795F86880": "organisms"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01684132-47B7-4CF4-8BAC-B7716EEB8DF2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "81DBB0B8-5D9B-4651-92C2-65D804F46085",
+  "verticalSpacing": 0
+}
