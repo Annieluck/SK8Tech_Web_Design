@@ -1,0 +1,93 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "04FFA1E0-994B-4820-A940-39519521DFFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35.94000000000005,
+    "width": 35.91,
+    "x": 0.1329999999998108,
+    "y": 0.2809999999999491
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "821BF186-5DD9-4DB8-8B55-C0315138E566"
+    },
+    {
+      "class": "shapePath",
+      "id": "3EB455BE-2C66-4BF0-96E5-DA41F6C32F59"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2F280B2-9C93-4D77-A6E7-EBC423DC2912"
+    }
+  ],
+  "name": "Fill 22",
+  "nameIsFixed": false,
+  "originalObjectID": "04FFA1E0-994B-4820-A940-39519521DFFE",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "E6AB32F1-6F14-4BDE-8EF0-1051A8FA44D8",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2,
+          "green": 0.2,
+          "red": 0.2
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "7CE3F031-47EA-4760-930B-2E7FBF6DF5F3",
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

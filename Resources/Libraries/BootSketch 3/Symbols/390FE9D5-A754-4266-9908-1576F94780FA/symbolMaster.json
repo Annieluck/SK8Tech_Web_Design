@@ -1,0 +1,104 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 5,
+  "do_objectID": "390FE9D5-A754-4266-9908-1576F94780FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 211,
+    "width": 400,
+    "x": 16911,
+    "y": 7516
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2BB9FEC5-18F0-4C25-AE31-8EFFC3EC1890"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F3C16864-DC63-471E-A16F-3804E6B32334"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A47BC71-5E66-47CC-96BC-A6F315B835FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28BD68FB-600B-4534-B518-F6D81801C246"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "93D4DA39-E7F0-40DA-828E-F34A16C68A79"
+    },
+    {
+      "class": "text",
+      "id": "97A0059A-EA2D-40C3-929B-007C0B1D8B2F"
+    },
+    {
+      "class": "group",
+      "id": "2FFB8BF6-8439-49EB-89F7-1A053E2AF72B"
+    },
+    {
+      "class": "group",
+      "id": "8998C151-613D-49CB-BC19-D1D6195264AC"
+    },
+    {
+      "class": "group",
+      "id": "8DF7FA10-51E4-4EF2-9ECE-7AC8F299A9CE"
+    }
+  ],
+  "name": "List Groups / default: with badges",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E328916-6127-4F6E-8FF5-B68899B6575F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

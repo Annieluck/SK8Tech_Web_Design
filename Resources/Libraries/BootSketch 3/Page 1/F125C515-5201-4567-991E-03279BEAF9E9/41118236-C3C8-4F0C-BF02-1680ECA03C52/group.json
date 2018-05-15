@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "41118236-C3C8-4F0C-BF02-1680ECA03C52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5CA233C-7980-4DAF-8990-DFEA4F2BB0C1",
+    "height": 177,
+    "width": 368,
+    "x": 40,
+    "y": 430
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "3A555EDA-0455-488B-B564-9FE7B6F018C4"
+    },
+    {
+      "class": "bitmap",
+      "id": "27602144-EF0A-4417-8689-8699A4842FC5"
+    },
+    {
+      "class": "text",
+      "id": "77CD2487-7341-4D39-9872-E0E791B6B28F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B947BF1-556F-471A-8792-FD6DB11335AF"
+    }
+  ],
+  "name": "Bitmap + Bitmap + 3. Select the layer ",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

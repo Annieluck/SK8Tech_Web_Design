@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "11BA97E6-DB5E-4711-A907-7C98A5A76416",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 56,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FB299313-C509-4679-B7C7-614565445218"
+    },
+    {
+      "class": "group",
+      "id": "2A01B7F3-676B-44E3-84D6-40F74A274CEC"
+    },
+    {
+      "class": "group",
+      "id": "2A01B7F3-676B-44E3-84D6-40F74A274CEC"
+    }
+  ],
+  "name": "Oval 13",
+  "nameIsFixed": false,
+  "originalObjectID": "11BA97E6-DB5E-4711-A907-7C98A5A76416",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

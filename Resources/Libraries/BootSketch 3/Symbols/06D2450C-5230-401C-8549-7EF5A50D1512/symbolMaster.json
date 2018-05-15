@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 5,
+  "do_objectID": "06D2450C-5230-401C-8549-7EF5A50D1512",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 212,
+    "width": 400,
+    "x": 18790,
+    "y": 7516
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2BB9FEC5-18F0-4C25-AE31-8EFFC3EC1890"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C139E515-4A3C-4C2C-A7C0-A0284B18A6BD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E464415D-9205-4A89-B53C-E27A67159AF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "193AC380-6B00-4DF0-9058-06EDDFFD6DB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F96E3C30-9A87-488A-9834-D8B0FFB6FBCD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA87F79B-67A7-471F-872A-945C566C4EB3"
+    },
+    {
+      "class": "text",
+      "id": "97A0059A-EA2D-40C3-929B-007C0B1D8B2F"
+    }
+  ],
+  "name": "List Groups / linked items",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DE73A3BE-7275-4296-A6B0-23968ACABFB5",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

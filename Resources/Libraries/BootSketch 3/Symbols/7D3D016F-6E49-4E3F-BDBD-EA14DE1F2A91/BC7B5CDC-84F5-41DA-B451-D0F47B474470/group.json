@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "BC7B5CDC-84F5-41DA-B451-D0F47B474470",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 51,
+    "x": 49,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6B6DD192-7E22-4DEC-BD53-D93C85F7B5B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E48B58A-8E92-4F94-9BF8-BB1C515D07FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E48B58A-8E92-4F94-9BF8-BB1C515D07FE"
+    }
+  ],
+  "name": "Rectangle 2 + Oval 5 + Oval 5",
+  "nameIsFixed": false,
+  "originalObjectID": "BC7B5CDC-84F5-41DA-B451-D0F47B474470",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

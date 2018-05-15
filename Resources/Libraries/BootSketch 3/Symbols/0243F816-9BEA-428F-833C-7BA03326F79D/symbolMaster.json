@@ -1,0 +1,88 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 5,
+  "do_objectID": "0243F816-9BEA-428F-833C-7BA03326F79D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 92,
+    "width": 109,
+    "x": 20669,
+    "y": 9395
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "85FD1E52-E85B-4EA1-8C22-AD2C1278DABB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D97D074-09D4-4214-93A0-226635B71FDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C15815B-4EA5-4F6D-9112-E1332171AE35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FFFF88C7-51E9-4D41-B3FD-178A59B694C4"
+    },
+    {
+      "class": "group",
+      "id": "0170BF70-E12C-4B32-8D49-235F1AE2549F"
+    }
+  ],
+  "name": "Touch Gestures / Rotate counterclockwise: 2 fingers",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C0644E5-D5E9-4565-8C02-4921896431CE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
