@@ -15,9 +15,9 @@
   "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
+    "constrainProportions": false,
     "do_objectID": "73B10ED5-5779-4131-A322-BBE3F9720902",
-    "height": 384,
+    "height": 274,
     "width": 512,
     "x": 42,
     "y": 74
