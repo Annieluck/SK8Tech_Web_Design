@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "DD5E9F94-0BDE-4845-ABA2-75C6FBCFBB7D",
+  "do_objectID": "0ECA268A-C5EF-453A-BD23-786D44533827",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
-    "width": 249,
-    "x": 168,
-    "y": 175
+    "height": 252,
+    "width": 610,
+    "x": -162,
+    "y": -87
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,19 +24,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Atoms/Button",
+  "name": "Molecules/Testimonial",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "06082824-1409-47CD-BB89-F86339C63216",
-      "overrideName": "A2A7DAE7-0E61-42DD-9393-284FA701711D/D7B0EAB7-39E8-463E-8C2F-B1D8D567FDEE_stringValue",
-      "value": "Hello button"
+      "do_objectID": "15BD30A8-05E3-4B77-B3C9-158ABAFF8355",
+      "overrideName": "9E7F53E2-3F4A-4599-98BC-AE6D18B359CE_symbolID",
+      "value": "5B07321C-9F98-4BDB-B293-D03EA6A0D182"
     }
   ],
   "overrides": {
-    "A2A7DAE7-0E61-42DD-9393-284FA701711D": {
-      "D7B0EAB7-39E8-463E-8C2F-B1D8D567FDEE": "Hello button"
+    "9E7F53E2-3F4A-4599-98BC-AE6D18B359CE": {
+      "symbolID": "5B07321C-9F98-4BDB-B293-D03EA6A0D182"
     }
   },
   "resizingConstraint": 63,
@@ -50,6 +50,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "AC90D203-0DF0-4EAC-A35C-763992ED6DB5",
+  "symbolID": "44EE8DC0-109E-4FBC-B552-49FB370B28C7",
   "verticalSpacing": 0
 }

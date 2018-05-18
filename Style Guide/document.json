@@ -30,6 +30,7 @@
   },
   "pages": [
     "Introduction",
+    "Home",
     "Approach: Atomic Design",
     "Symbols",
     "Archive"
